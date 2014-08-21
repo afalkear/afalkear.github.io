@@ -1,6 +1,6 @@
 # Site settings
 title: Afalkear site
-email: afalkear@gmail.com
+email: ""
 description: > # this means to ignore newlines until "baseurl:"
   My not-yet-ready site
 baseurl: "" # the subpath of your site, e.g. /blog/
