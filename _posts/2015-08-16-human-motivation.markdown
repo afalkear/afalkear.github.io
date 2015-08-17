@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Human motivation!"
+title:  "Human motivation"
 date:   2015-08-16 23:42:56
 categories: articles
 ---
@@ -23,7 +23,7 @@ Ver cómo utilizar tags para poder separar los textos que voy resumiendo.
 Poner todo esto en una página, no es este post. Pero por ahora, para no sumar dispersión, lo voy a hacer acá.
 
 Human motivation
-................
+----------------
 
 Comienza hablando de las acciones voluntarias e involuntarias y también sobre la dificultad de separar ambas.
 ¿Cómo se explican?
@@ -32,7 +32,8 @@ Empieza por *folk psychology*: Folk psychology posits that we humans have belief
 Es una forma muy simple y elemental. Si deseo algo y creo que puedo hacerlo, lo voy a hacer. Pero queda corto con respecto a muchas cosas, una de las cuales por ejemplo me imagino que es el autosabotaje por ejemplo.
 
 Neoclassical Economics
-......................
+------
+
 **probabilidad y utilidad**
 > One [assumption of] neoclassical economics is "rationality," in which individuals are said to choose alternatives that maximize expected utilities. In particular, the neoclassical view is that individuals rank all possible alternatives according to how much satisfaction they will bring and then choose the alternative that [they expect] will bring the most satisfaction or utility...
 
