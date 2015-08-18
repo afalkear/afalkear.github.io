@@ -9,4 +9,4 @@ twitter_username: afalkear
 github_username:  afalkear
 
 # Build settings
-markdown: markdown
+markdown: kramdown
