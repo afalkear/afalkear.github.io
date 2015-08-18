@@ -1,5 +1,5 @@
 # Site settings
-title: Afalkear site
+title: afalkear
 email: ""
 description: > # this means to ignore newlines until "baseurl:"
   My not-yet-ready site
@@ -9,4 +9,4 @@ twitter_username: afalkear
 github_username:  afalkear
 
 # Build settings
-markdown: kramdown
+markdown: markdown
