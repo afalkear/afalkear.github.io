@@ -8,6 +8,7 @@ categories: rails
 Buscando opciones para usar google maps, me pareció que la más simple es usar la v3.
 Las anteriores siempre necesitan una API-KEY, lo cual no es **el** drama, pero está bueno evitarlo.
 Esta versión, que está en *beta* o *alpha*, es simple y requiere pocos pasos:
+
 * incluír js y css propios de google
 * llamar dentro de la página al js propio de google
 
