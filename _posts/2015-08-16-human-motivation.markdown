@@ -24,9 +24,11 @@ Neoclassical Economics
 ------
 
 **probabilidad y utilidad**
+
 > One [assumption of] neoclassical economics is "rationality," in which individuals are said to choose alternatives that maximize expected utilities. In particular, the neoclassical view is that individuals rank all possible alternatives according to how much satisfaction they will bring and then choose the alternative that [they expect] will bring the most satisfaction or utility...
 
 Parecería que en este caso se ponderan la fuerza de los deseos con probabilidades y la fuerza de las creencias con utilidad.
 (nota mía... esto sigue sin explicar los *autosabotajes*...)
 Igual lo aclara un poco acá:
+
 > Keep in mind that economists don't argue that we actually compute the expected utility of each option before us and then choose the best one, but that we always act "as if" we were doing that.
