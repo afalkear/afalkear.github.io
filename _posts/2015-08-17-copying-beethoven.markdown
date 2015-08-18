@@ -24,6 +24,7 @@ Administración de emociones
 El novio de Anna Holtz, ingeniero civil, construye un modelo de un puente.
 Beethoven, siendo la fuerza de la naturaleza que es, lo ve y decide destruir el modelo, ante el terror del ingeniero, ya que piensa que el puete fue hecho "sin alma".
 Después de hacerlo, viendo los ojos de furia de este, Beethoven le dice:
+
 > "¿Como estás ahora? ¿Triste, enojado, furioso?"
 > "¿Querés matar?¿Empezar de nuevo?"
 > "¡Construí el puente  con eso!"
