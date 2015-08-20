@@ -3,6 +3,7 @@ layout: post
 title:  "Human motivation"
 date:   2015-08-16 23:42:56
 categories: articles
+image: http://40.media.tumblr.com/e945e0b53eaf04cf5f90ee0570bea24a/tumblr_mrm3bl6awV1qfo01bo1_1280.jpg
 ---
 
 

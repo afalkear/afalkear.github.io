@@ -3,6 +3,7 @@ layout: post
 title:  "Google maps api v3"
 date:   2015-08-17 16:07:00
 categories: rails
+image: http://img2.wikia.nocookie.net/__cb20150309221525/logopedia/images/e/e1/Googlemapslogo2014.png
 ---
 
 Buscando opciones para usar google maps, me pareció que la más simple es usar la v3.

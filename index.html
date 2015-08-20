@@ -12,7 +12,16 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+            <span>
+              {% if post.image %}
+                <img src="{{site.url}}/assets/post.png" alt="{{post.title}} image" />
+              {% else %}
+                <img src="{{post.image}}" alt="{{post.title}} image" />
+              {% endif %}
+            </span>
+          </a>
         </h2>
       </li>
     {% endfor %}
