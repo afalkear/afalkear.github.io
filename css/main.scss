@@ -47,3 +47,12 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.post-thumbnail-image {
+  height: 100px;
+  width: 100px;
+}
+
+.post-thumbnail-image img {
+  height: 100%;
+}
