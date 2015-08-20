@@ -3,7 +3,7 @@ layout: post
 title:  "Copying Beethoven"
 date:   2015-08-16 23:42:56
 categories: movies
-image: http://ia.media-imdb.com/images/M/MV5BMjE4ODI4ODE5MV5BMl5BanBnXkFtZTYwMzYyNTM3._V1_SX640_SY720_.jpg
+image: http://stopsmilingonline.com/uploads/photos/story/20061110a.jpg
 ---
 
 ![Beethoven]({{site.url}}/assets/beethoven3.png)
