@@ -13,7 +13,6 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
             <span class="post-thumbnail-image">
               {% if post.image %}
                 <img src="{{site.url}}/assets/post.png" alt="{{post.title}} image" />
@@ -21,6 +20,7 @@ layout: default
                 <img src="{{post.image}}" alt="{{post.title}} image" />
               {% endif %}
             </span>
+            {{ post.title }}
           </a>
         </h2>
       </li>
